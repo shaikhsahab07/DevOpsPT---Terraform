@@ -1,5 +1,5 @@
 # Please add subscriptionID, TenantID and service principle credentials accordingly.
-resource_group_name  = "manually-created-rg"
-storage_account_name = "terraformremotebackend02"
-container_name       = "remote-backend"
-key                  = "dev.tfstate"
+resource_group_name  = ""
+storage_account_name = ""
+container_name       = ""
+key                  = ""
