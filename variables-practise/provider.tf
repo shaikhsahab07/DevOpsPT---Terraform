@@ -11,6 +11,4 @@ terraform {
 # Add your subscriptionID, TenantID and service principle credentials accordingly.
 provider "azurerm" {
   features {}
-
-
 }
