@@ -37,6 +37,7 @@ resource "azurerm_network_interface" "pterra-nic" {
   }
 }
 
+
 resource "azurerm_virtual_machine" "pterra-vms" {
   for_each = var.pterra-vms
 
